@@ -7,11 +7,11 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "When the popular press needs an iconic image of a brilliant scientist, it invariably recycles the famous photograph of Albert Einstein having a bad hair day."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+When the popular press needs an iconic image of a brilliant scientist, it invariably recycles the famous photograph of [Albert Einstein](https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/) having a bad hair day.
 
 {% include button.html text="Github" icon="github" link="https://github.com/TheCodeIsWorld" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 
-## Features
+<!-- ## Features
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
@@ -84,7 +84,7 @@ _(deprecated, not recommended)_
 5. Run `bundle exec jekyll serve` to build and serve your site
 6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
-## Customising
+## Customising -->
 
 When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
 
