@@ -1,7 +1,6 @@
 ---
 title: 小书匠
-categories:
-- General
+
 feature_image: "https://picsum.photos/2560/600?image=872"
 tags: 更新说明,小书匠
 slug: storywriter/upgrade_log
