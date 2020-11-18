@@ -9,7 +9,12 @@ excerpt: "When the popular press needs an iconic image of a brilliant scientist,
 
 When the popular press needs an iconic image of a brilliant scientist, it invariably recycles the famous photograph of [Albert Einstein](https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/) having a bad hair day.
 
-写Bug啦！！！
+## <div align="center"><font color="red" face="STCAIYUN"> 天啦噜， 又写Bug啦！！！</font></div>
+
+## <div align="center"><font color="green" face="STCAIYUN"> 天啦噜， 又写Bug啦！！！</font></div>
+
+## <div align="center"><font color="blue" face="STCAIYUN"> 天啦噜， 又写Bug啦！！！</font></div>
+
 
 <!-- {% include button.html text="Github" icon="github" link="https://github.com/TheCodeIsWorld" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %} -->
 
