@@ -1,0 +1,14 @@
+---
+title: 蒋博的介绍
+categories:
+- Jiang
+excerpt: |
+  蒋哥强啊.
+feature_text: |
+  ## 蒋博
+  up up up
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
+---
+
+### 优秀的蒋博是我们永远的学习榜样
