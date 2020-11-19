@@ -39,15 +39,15 @@ paginate: 5 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: Xu Cong # jekyll-seo-tag > Owners twitter username
-author: Xu Cong # jekyll-seo-tag > default author
+  username: XuCong # jekyll-seo-tag > Owners twitter username
+author: XuCong # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Xu Cong # jekyll-seo-tag > real name
+  name: XuCong # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/flippedddddd
+    # - https://www.facebook.com/daviddarnes
+    # - https://www.linkedin.com/in/daviddarnes
+    - https://github.com/thecodeisworld
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "Albert" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://thecodeisworld.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/TheCodeIsWorld/TheCodeIsWorld.github.io"
 email: "937230706@qq.com"
@@ -137,10 +137,9 @@ navigation_footer:
   url: https://github.com/TheCodeIsWorld/TheCodeIsWorld.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  Twitter: https://twitter.com/flippedddddd
   GitHub: https://github.com/TheCodeIsWorld
-  link: https://darn.es
+  link: https://thecodeisworld.github.io
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
